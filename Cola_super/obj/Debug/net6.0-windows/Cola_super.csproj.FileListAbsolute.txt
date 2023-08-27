@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\bin\Debug\net6.0-windows\Cola_super.exe
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\bin\Debug\net6.0-windows\Cola_super.deps.json
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\bin\Debug\net6.0-windows\Cola_super.runtimeconfig.json
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\bin\Debug\net6.0-windows\Cola_super.dll
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\bin\Debug\net6.0-windows\Cola_super.pdb
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.Form1.resources
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.dll
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\refint\Cola_super.dll
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.pdb
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\Cola_super.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\final\Queue\Cola_super\obj\Debug\net6.0-windows\ref\Cola_super.dll
